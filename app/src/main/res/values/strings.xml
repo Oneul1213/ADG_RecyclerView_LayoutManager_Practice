@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RecyclerView LayoutManager Practice</string>
+    <string name="card1">card1</string>
+    <string name="card2">card2</string>
+    <string name="card3">card3</string>
+    <string name="card4">card4</string>
+    <string name="card5">card5</string>
 </resources>
